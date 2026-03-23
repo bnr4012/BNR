@@ -40,7 +40,7 @@ input {
 button {
     padding: 10px 15px;
     border: none;
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: linear-gradient(135deg, #645fff, #090401);
     color: white;
     border-radius: 8px;
     cursor: pointer;
